@@ -1,1 +1,1 @@
-const test = "This is for testing the js version";
+const test = "This is for testing the version of js!";
